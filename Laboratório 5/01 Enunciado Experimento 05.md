@@ -1,4 +1,5 @@
-Experimento 5
+**Experimento 5: Circuito Somador e Subtrator**
+
 **Objetivos**
 • Projetar e construir circuitos aritméticos básicos (somador/subtrator).
 
